@@ -4,6 +4,12 @@
 
 通过AI+一点人工修改[tap（处理ass字幕的）](https://github.com/MingYSub/Tap)而成，因为主要是自用，所以把一些config都去了，然后加了几条正则
 
+## 用法
+```
+python wsp.py 目标资料夹
+会直接在原地生成 原字幕文件名_out.srt
+```
+
 ## 功能
 
 - ⭐ 合并时间重复行
